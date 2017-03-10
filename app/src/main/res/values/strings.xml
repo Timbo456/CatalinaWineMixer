@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Catalina</string>
+    <string name="txtPennies">Pennies</string>
+    <string name="txtNickles">Nickles</string>
+    <string name="txtDimes">Dimes</string>
+    <string name="txtQuarters">Quarters</string>
+    <string name= "btnCalculate">Calculate</string>
+    <string name= "txtWelcome">Welcome</string>
+    <string name= "btnLetsSave">Lets Go!</string>
+    <string name= "txtTotal">Total</string>
+
+
+
+    <string-array name = "txtWhatYouDoing">
+        <item>saving </item>
+        <item>spending </item>
+
+    </string-array>
+
+
+</resources>
